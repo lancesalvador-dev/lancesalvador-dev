@@ -36,6 +36,7 @@ Seeking a Practicum/Internship!
 
 ## 📊My Github Stats
 <div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lancesalvador-dev&theme=synthwave">
 <img height="160em" src="https://github-readme-stats-lancesalvador-devs-projects.vercel.app/api/top-langs/?username=lancesalvador-dev&show_icons=true&theme=synthwave">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lancesalvador-dev&theme=synthwave">
 <!--
@@ -43,7 +44,7 @@ Seeking a Practicum/Internship!
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lancesalvador-dev&theme=synthwave">
 -->
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lancesalvador-dev&theme=synthwave&utcOffset=-7">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lancesalvador-dev&theme=synthwave">
+
 </div>
 <!-- uncomment this after using github more 
 [![Lance's GitHub stats](https://github-readme-stats-lancesalvador-devs-projects.vercel.app/api?username=lancesalvador-dev&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
