@@ -34,7 +34,7 @@ Seeking a Practicum/Internship!
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
 </div>
 
-## 📊My Github Stats
+## 📊Github Stats
 <div align="center">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lancesalvador-dev&theme=synthwave">
 <img height="160em" src="https://github-readme-stats-lancesalvador-devs-projects.vercel.app/api/top-langs/?username=lancesalvador-dev&show_icons=true&theme=synthwave">
