@@ -18,7 +18,7 @@ Seeking a Practicum/Internship!
 - 🌱 I’m currently learning [C# Sparse Packages](https://github.com/microsoft/AppModelSamples/tree/master/Samples/SparsePackages)
 - 📫 How to reach me: lancesalvador.dev@gmail.com
 
-## 🧑‍💻Technology Stack
+## 🧑‍💻Tech Stack
 <div align="center">
 <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge" alt="Rust Badge">&nbsp;
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++ Badge">&nbsp;
