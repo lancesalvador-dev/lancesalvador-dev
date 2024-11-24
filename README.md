@@ -39,8 +39,10 @@ Seeking a Practicum/Internship!
 <img height="160em" src="https://github-readme-stats-lancesalvador-devs-projects.vercel.app/api/top-langs/?username=lancesalvador-dev&show_icons=true&theme=synthwave">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lancesalvador-dev&theme=synthwave">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lancesalvador-dev&theme=synthwave">
+<!--
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lancesalvador-dev&theme=synthwave">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lancesalvador-dev&theme=synthwave">
+-->
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lancesalvador-dev&theme=synthwave&utcOffset=-7">
 </div>
 <!-- uncomment this after using github more 
