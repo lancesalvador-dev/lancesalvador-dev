@@ -18,6 +18,7 @@ Seeking a Practicum/Internship!
 - 🌱 I’m currently learning [C# Sparse Packages](https://github.com/microsoft/AppModelSamples/tree/master/Samples/SparsePackages)
 - 📫 How to reach me: lancesalvador.dev@gmail.com
 
+## 🧑‍💻Technology Stack
 <div align="center">
 <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge" alt="Rust Badge">&nbsp;
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++ Badge">&nbsp;
@@ -33,8 +34,7 @@ Seeking a Practicum/Internship!
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
 </div>
 
-
-
+## 📊My Github Stats
 <div align="center">
 <img height="160em" src="https://github-readme-stats-lancesalvador-devs-projects.vercel.app/api/top-langs/?username=lancesalvador-dev&show_icons=true&theme=synthwave">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lancesalvador-dev&theme=synthwave">
