@@ -48,9 +48,8 @@ Seeking a Practicum/Internship
 </div>
 <!-- uncomment this after using github more 
 [![Lance's GitHub stats](https://github-readme-stats-lancesalvador-devs-projects.vercel.app/api?username=lancesalvador-dev&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lancesalvador-dev.lancesalvador-dev)
+-->
 <!--
 **lancesalvador-dev/lancesalvador-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
