@@ -10,14 +10,14 @@
 <!-- Horizontal line for separation -->
 <hr>
 
-I'm a fast-track student at SAIT majoring in Object-Oriented Software Development. When I'm not coding, I'm usually gaming or tinkering with computer applications. 
+I'm a fast-track student at SAIT majoring in Object-Oriented Software Development. I enjoy gaming & tinkering with computer applications. 
 
-Seeking a Practicum/Internship!
+Seeking a Practicum/Internship
 
 - 🔭 I’m currently working on [the fish](https://github.com/lancesalvador-dev/the-fish)
 - 🌱 I’m currently learning [C# Sparse Packages](https://github.com/microsoft/AppModelSamples/tree/master/Samples/SparsePackages)
 - 📫 How to reach me: lancesalvador.dev@gmail.com
-
+<!--
 ## 🧑‍💻Tech Stack
 <div align="center">
 <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge" alt="Rust Badge">&nbsp;
@@ -33,7 +33,7 @@ Seeking a Practicum/Internship!
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
 </div>
-
+-->
 ## 📊Github Stats
 <div align="center">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lancesalvador-dev&theme=synthwave">
